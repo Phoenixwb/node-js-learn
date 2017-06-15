@@ -4,11 +4,11 @@
 * [快速入门](http://eggjs.org/zh-cn/intro/quickstart.html)  
 _官方的快速入门_ 教程，可以优雅的开启web服务。
 
-# egg  [git文档合集](https://github.com/eggjs/egg/tree/master/docs/source/zh-cn)  ，搬运自社区[ _cnodejs_ ](https://cnodejs.org/topic/5870e9da04dcf9a706a745f0#5942a32c9079357b642b27d9)
+# egg  [git文档合集](https://github.com/eggjs/egg/tree/master/docs/source/zh-cn)  ，搬运自社区[ _cnodejs_ ](https://cnodejs.org/topic/5870e9da04dcf9a706a745f0#5942a32c9079357b642b27d9)
 
 ## 写在开始，下面是纯搬运的顺序，个人觉得并不是最佳阅读顺序。
 
-1. [框架扩展](https://github.com/eggjs/egg/blob/master/docs/source/zh-cn/basics/extend.md)  
+1. [框架扩展](https://github.com/eggjs/egg/blob/master/docs/source/zh-cn/basics/extend.md)  
 
 2. [运行环境](https://github.com/eggjs/egg/blob/master/docs/source/zh-cn/basics/env.md)  
 
