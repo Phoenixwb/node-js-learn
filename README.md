@@ -13,7 +13,7 @@ learn how to use node-js
 
 ## lesson 3
 
-* [入门cluster，充分利用cpu，官方例子也是比较好理解的](https://nodejs.org/api/cluster.html)
+* 入门[cluster](https://nodejs.org/api/cluster.html) ，充分利用cpu，官方例子也是比较好理解的
 
 ## lesson 4
 
