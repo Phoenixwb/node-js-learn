@@ -4,7 +4,8 @@
     "description": "Hello Koa 2 example with async",
     "main": "app.js",
     "scripts": {
-        "start": "node app.js"
+        "start": "node app.js",
+        "test": "mocha"
     },
     "keywords": [
         "koa",
@@ -15,6 +16,11 @@
     "dependencies": {
         "koa": "^2.0.0",
         "koa-router": "^7.0.0",
-        "koa-bodyparser": "^4.2.0"
+        "koa-bodyparser": "^4.2.0",
+        "mocha": "^3.4.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wbget/node-js-learn.git"
     }
 }

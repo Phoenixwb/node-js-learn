@@ -4,7 +4,7 @@ learn how to use node-js
 
 ## lesson 1
 
-* [复习Javascript，入门node-js](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+* [复习Javascript](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) ，[入门node-js](https://cnodejs.org/getstart)
 
 ## lesson 2
 
@@ -20,3 +20,7 @@ learn how to use node-js
 * [用koa打开egg，egg.js入门](http://eggjs.org/zh-cn/)
 
 * [learn egg.js](./README.egg.md)
+
+## lesson 5
+
+* 测试框架[mocha](http://mochajs.org/)
