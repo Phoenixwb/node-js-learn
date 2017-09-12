@@ -24,3 +24,6 @@ learn how to use node-js
 ## lesson 5
 
 * 测试框架[mocha](http://mochajs.org/)
+## lesson 6  
+
+* [《深入浅出Node.js》](https://book.douban.com/subject/25768396/), 如果有更新就更好了。
